@@ -1,0 +1,1 @@
+<div id="login_form">You are in members secret area <a href='../login/logout'><br/>Log Out</a></div>
